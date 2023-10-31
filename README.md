@@ -1,1 +1,3 @@
 # Examen-InterfacesInteligentes
+
+![gif](./gif)
