@@ -3,4 +3,4 @@
 
 Ejercicios 1 - 5
 
-![gif](./gif)
+![gif](./gifs_examen/ejercicios1_5.gif)
